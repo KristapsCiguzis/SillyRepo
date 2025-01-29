@@ -1,0 +1,60 @@
+{
+  "NavbarLinks": {
+    "home": "Avaleht",
+    "homeTitle": "Avaleht",
+    "about": "Meist",
+    "aboutTitle": "Meist lehekülg",
+    "tasks": "Ülesanded",
+    "tasksTitle": "Ülesannete lehekülg",
+    "specialLinkTask": "Ulesanded",
+    "contact": "Kontakt",
+    "contactTitle": "Kontakti lehekülg"
+  },
+  "HomePage": {
+    "title": "Avaleht",
+    "description": "Avasta mikrokontrollerite programmeerimise maailm läbi väikeste õppimiskogemuste.",
+    "headingPart1": "Vähem keerukust",
+    "headingPart2": "Rohkem loomist",
+    "startLearning": "Alusta Õppimist",
+    "features": {
+      "interactive": {
+        "title": "Interaktiivne Õppimine",
+        "description": "Praktilised harjutused päris mikrokontrollerite riistvaraga"
+      },
+      "guidance": {
+        "title": "Samm-sammuline Juhendamine",
+        "description": "Selged juhised ja tugi igal etapil"
+      },
+      "projects": {
+        "title": "Projektipõhine",
+        "description": "Õpi projekte luues"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Meist",
+    "text1": "Tere tulemast MicroBites'i!",
+    "text2": "Tere tulemast MicroBites'i!",
+    "text3": "Tere tulemast MicroBites'i!",
+    "text4": "Tere tulemast MicroBites'i!"
+  },
+  "TasksPage": {
+    "title": "Ülesanded",
+    "contents": "Sisukord",
+    "noSectionsAvailable": "Jaotised pole saadaval",
+    "resources": "Materjalid",
+    "downloadTaskDocument": "Laadi alla ülesande dokument",
+    "selectTask": "Vali ülesanne vaatamiseks",
+    "menu": "Menüü",
+    "task": "Ülesanne"
+  },
+  "ContactPage": {
+    "title": "Kontakt",
+    "intro": "Kas teil on küsimusi MicroBites'i kohta? Meil on hea meel teid kuulda! Meie meeskond on siin, et aidata kõigi küsimustega meie platvormi, ülesannete või õppematerjalide kohta.",
+    "email": "E-post",
+    "emailAddress": "contact@microbites.com",
+    "location": "Asukoht",
+    "hours": "Tööaeg",
+    "hoursText": "Esmaspäev - Reede: 9:00 - 17:00"
+  }
+}

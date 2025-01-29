@@ -1,0 +1,60 @@
+{
+  "docs": [
+    {
+      "taskId": 0,
+      "fileName": "01_Introduction_to_Microbit.docx"
+    },
+    {
+      "taskId": 1,
+      "fileName": "02_The_Flashing_Heart.docx"
+    },
+    {
+      "taskId": 2,
+      "fileName": "03_The_Running_Word.docx"
+    },
+    {
+      "taskId": 3,
+      "fileName": "04_Throwing_dice.docx"
+    },
+    {
+      "taskId": 4,
+      "fileName": "05_Step_counter.docx"
+    },
+    {
+      "taskId": 5,
+      "fileName": "06_Rock_Paper_Scissors.docx"
+    },
+    {
+      "taskId": 6,
+      "fileName": "07_Banana_Keyboard.docx"
+    },
+    {
+      "taskId": 7,
+      "fileName": "08_Movement_basics_with_Kitronik.docx"
+    },
+    {
+      "taskId": 8,
+      "fileName": "09_Kitronik_sound_and_light.docx"
+    },
+    {
+      "taskId": 9,
+      "fileName": "10_Kitronik_line_following_robot.docx"
+    },
+    {
+      "taskId": 10,
+      "fileName": "11_Race_timming_system.docx"
+    },
+    {
+      "taskId": 11,
+      "fileName": "12_Kitronik_ultrasonic_sensor.docx"
+    },
+    {
+      "taskId": 12,
+      "fileName": "13_Kitronik_ultrasonic_sensor_+_servo_motor.docx"
+    },
+    {
+      "taskId": 13,
+      "fileName": "14_Huskylens_camera_functions.docx"
+    }
+  ]
+}

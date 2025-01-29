@@ -1,0 +1,60 @@
+{
+  "NavbarLinks": {
+    "home": "Sākums",
+    "homeTitle": "Sākuma lapa",
+    "about": "Par mums",
+    "aboutTitle": "Par mums lapa",
+    "tasks": "Uzdevumi",
+    "tasksTitle": "Uzdevumu lapa",
+    "specialLinkTask": "Uzdevumi",
+    "contact": "Kontakti",
+    "contactTitle": "Kontaktu lapa"
+  },
+  "HomePage": {
+    "title": "Sākums",
+    "description": "Atklāj mikrokontrolieru programmēšanas pasauli caur nelielām mācību pieredzēm.",
+    "headingPart1": "Mazāk sarežģītības",
+    "headingPart2": "Vairāk radīšanas",
+    "startLearning": "Sākt Mācīties",
+    "features": {
+      "interactive": {
+        "title": "Interaktīva Mācīšanās",
+        "description": "Praktiskās nodarbības ar reālu mikrokontrolieru tehniku"
+      },
+      "guidance": {
+        "title": "Soli pa Solim",
+        "description": "Skaidri norādījumi un atbalsts katrā posmā"
+      },
+      "projects": {
+        "title": "Projektu Veidošana",
+        "description": "Mācies veidojot projektus"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Par mums",
+    "text1": "Laipni lūgti MicroBites!",
+    "text2": "Laipni lūgti MicroBites!",
+    "text3": "Laipni lūgti MicroBites!",
+    "text4": "Laipni lūgti MicroBites!"
+  },
+  "TasksPage": {
+    "title": "Uzdevumi",
+    "contents": "Saturs",
+    "noSectionsAvailable": "Nav pieejamu sadaļu",
+    "resources": "Resursi",
+    "downloadTaskDocument": "Lejupielādēt uzdevuma dokumentu",
+    "selectTask": "Izvēlieties uzdevumu, lai skatītu detaļas",
+    "menu": "Izvēlne",
+    "task": "Uzdevums"
+  },
+  "ContactPage": {
+    "title": "Kontakti",
+    "intro": "Vai jums ir jautājumi par MicroBites? Mēs priecāsimies no jums dzirdēt! Mūsu komanda ir šeit, lai palīdzētu ar jebkādiem jautājumiem par mūsu platformu, uzdevumiem vai mācību resursiem.",
+    "email": "E-pasts",
+    "emailAddress": "contact@microbites.com",
+    "location": "Atrašanās vieta",
+    "hours": "Darba laiks",
+    "hoursText": "Pirmdiena - Piektdiena: 9:00 - 17:00"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "NavbarLinks": {
+    "home": "Home",
+    "homeTitle": "Home page",
+    "about": "About", 
+    "aboutTitle": "About page",
+    "tasks": "Tasks",
+    "tasksTitle": "Tasks page",
+    "specialLinkTask": "Tasks",
+    "contact": "Contact",
+    "contactTitle": "Contact page"
+  },
+  "HomePage": {
+    "title": "Landing page",
+    "description": "Discover the world of microcontroller programming through bite-sized learning experiences.",
+    "headingPart1": "Less complexity",
+    "headingPart2": "More creating",
+    "startLearning": "Start Learning",
+    "features": {
+      "interactive": {
+        "title": "Interactive Learning",
+        "description": "Hands-on exercises with real microcontroller hardware"
+      },
+      "guidance": {
+        "title": "Step-by-Step Guidance",
+        "description": "Clear instructions and support at every stage"
+      },
+      "projects": {
+        "title": "Project-Based",
+        "description": "Learn by creating projects"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "About",
+    "text1": "Welcome to MicroBites!",
+    "text2": "Welcome to MicroBites!",
+    "text3": "Welcome to MicroBites!",
+    "text4": "Welcome to MicroBites!"
+  },
+  "TasksPage": {
+    "title": "Tasks",
+    "contents": "Contents",
+    "noSectionsAvailable": "No sections available",
+    "resources": "Resources",
+    "downloadTaskDocument": "Download Task Document", 
+    "selectTask": "Select a task to view details",
+    "menu": "Menu",
+    "task": "Task"
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "intro": "Have questions about MicroBites? We'd love to hear from you! Our team is here to help with any questions you might have about our platform, tasks, or learning resources.",
+    "email": "Email",
+    "emailAddress": "contact@microbites.com",
+    "location": "Location",
+    "hours": "Office Hours",
+    "hoursText": "Monday - Friday: 9:00 - 17:00 EET"
+  }
+}
